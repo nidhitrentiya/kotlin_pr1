@@ -13,6 +13,9 @@ fun main() {
     var b:Short=-2
     var c:Byte=127
     var d:Boolean=false
+    val co=60
+    j=30
+    println("co")
     println("j="+j)
     println("i="+i)
     println("k="+k)
